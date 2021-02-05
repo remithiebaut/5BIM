@@ -1,3 +1,6 @@
+%The purpose of this function is to cut the Big Image into several small
+%imagettes
+
 clear;
 close all;
 I = imread('echantillon/INSA_Odyssey2025/Carcass1_1+1_Ortho.tif');
