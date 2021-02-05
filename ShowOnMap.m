@@ -1,4 +1,6 @@
-
+% L'objectif de  cette fonction est de faire apparaître sur la grande image
+% de base l'ensemble des imagettes qui contiennent l'un ou l'autre des
+% contaminants.
 clear;
 close all;
 
