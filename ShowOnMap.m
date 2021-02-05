@@ -1,6 +1,5 @@
 % L'objectif de  cette fonction est de faire apparaître sur la grande image
-% de base l'ensemble des imagettes qui contiennent l'un ou l'autre des
-% contaminants.
+% de base l'ensemble des imagettessous forme de carrés de couleur. Chaque couleur correspond à un contaminant.
 clear;
 close all;
 
