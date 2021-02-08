@@ -14,6 +14,6 @@ tri_DL.ipynb : Permet à partir d'un dossier contenant les deux classes d'images
 
 Supression_Autre.ipynb :  Permet de diviser par deux le nombre d'images dans les dossier "Autres" car il contient 10 fois plus d'image que ceux de "Contaminants"
 
+Barbeles.ipynb :  Ce notebook contient le code et résultats pour la détection de barbelés avec la méthode des contours de Canny et transformée de Hough.
 
-
-
+Carcasse.ipynb :  Ce notebook contient le code et résultats pour la détection de carcasses avec la méthode des contours de Canny.
